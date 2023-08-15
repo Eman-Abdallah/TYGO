@@ -1,0 +1,17 @@
+{
+                "recommendations": [ "figma.figma-vscode-extension",
+                        "tomoki1207.pdf",
+                        "dbaeumer.vscode-eslint",
+                        "tombonnike.vscode-status-bar-format-toggle",
+                        "ms-vscode.powershell",
+                        "pmneo.tsimporter",
+                        "mdb05.vscsnippets",
+                        "antiantisepticeye.vscode-color-picker",
+                        "kameshkotwani.google-search",
+                        "samundrak.esdoc-mdn",
+                        "hansuxdev.bootstrap5-snippets",
+                        "anbuselvanrocky.bootstrap5-vscode",
+                        "johnpapa.vscode-peacock",
+                        "csstools.postcss"
+                        ]
+        }
